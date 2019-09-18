@@ -1,0 +1,8 @@
+com\stepdefinition\AddCustomerProcedure.class
+com\resources\FunctionalLibraries.class
+com\objectrepositary\HomePage.class
+com\stepdefinition\AddTariffProcedure.class
+com\stepdefinition\TestRunner.class
+com\objectrepositary\AddTariffSteps.class
+com\objectrepositary\AddCustomerSteps.class
+com\stepdefinition\Hook.class
